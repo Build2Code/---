@@ -1,0 +1,4 @@
+4.1.2 后验概率最大化的含义
+https://blog.csdn.net/hbkybkzw/article/details/126046362
+此处的公式比较难以理解，其中“即期望是对联合分布P(X,Y)取的。由此取条件期望”无法理解，故参考：
+https://blog.csdn.net/zhengjihao/article/details/78064121
